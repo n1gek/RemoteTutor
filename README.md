@@ -6,9 +6,9 @@ This is is a real chat application designed to offer flexibility to tutoring ser
 ## Getting Started
 to get started, run:
 
-''''bash
+'''bash
 python manage.py runserver
-''''bash
+'''bash
 Navigate to the local host which will take you to the home page where you can log in
 
 
